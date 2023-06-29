@@ -29,14 +29,14 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: #fffdfd;
+    color: #e2cd0d;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 
 nav a:hover{
-    color: #c78c19;
+    color: #c72519;
     text-decoration: underline;
 }
 
